@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33442558.css",
+    "main.js": "/static/js/main.e34654f8.js",
+    "static/media/RATP.svg.png": "/static/media/RATP.svg.0d6839222aea793531cc.png",
+    "static/media/loading.svg": "/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
+    "index.html": "/index.html",
+    "main.33442558.css.map": "/static/css/main.33442558.css.map",
+    "main.e34654f8.js.map": "/static/js/main.e34654f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33442558.css",
+    "static/js/main.e34654f8.js"
+  ]
+}
